@@ -4,4 +4,4 @@
 <br>
 2° Semestre de Engenharia de Computação na PUC-CAMPINAS
 <br>
-e-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
+E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
