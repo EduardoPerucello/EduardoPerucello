@@ -1,6 +1,6 @@
 # Olá, Sou Eduardo de Faria Rios Perucello
 ### Sobre mim
-Tenho 18 anos;
+Tenho 19 anos;
 <br>
 Estou no 2° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
