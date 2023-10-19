@@ -2,7 +2,7 @@
 ### Sobre mim
 Tenho 19 anos;
 <br>
-Estou no 2° Semestre de Engenharia de Computação na PUC-CAMPINAS;
+Estou no 4° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
@@ -14,4 +14,4 @@ E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
 -Assembly (x86);
 <br>
--Laravel (Apenas o basico, por enquanto)
+-Laravel (Apenas o basico)
