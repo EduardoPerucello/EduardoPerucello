@@ -14,4 +14,8 @@ E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
 -Assembly (x86);
 <br>
--Laravel (Apenas o basico)
+-Laravel (Básico)
+<br>
+-VHDL
+<br>
+-HTML
