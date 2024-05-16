@@ -8,6 +8,16 @@ E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
 Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 
+### Linguagens principais:
+-C;
+<br>
+-Python;
+<br>
+-HTML
+
+### Tecnologias utilizadas:
+-Docker
+
 ### Linguagens estudadas:
 -C;
 <br>
