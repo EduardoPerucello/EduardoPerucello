@@ -11,9 +11,11 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 ### Linguagens principais:
 -C;
 <br>
+-Java;
+<br>
 -Python;
 <br>
--HTML
+-PHP (HTML, CSS)
 
 ### Tecnologias utilizadas:
 -Docker
