@@ -1,8 +1,8 @@
 # Olá, Sou Eduardo de Faria Rios Perucello
 ### Sobre mim
-Tenho 19 anos;
+Tenho 20 anos;
 <br>
-Estou no 4° Semestre de Engenharia de Computação na PUC-CAMPINAS;
+Estou no 5° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
@@ -15,10 +15,14 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 <br>
 -Assembly (x86);
 <br>
--Laravel (Básico)
+-Laravel;
 <br>
--VHDL
+-PHP;
 <br>
--HTML
+-VHDL;
 <br>
--Java
+-HTML;
+<br>
+-Java;
+<br>
+
