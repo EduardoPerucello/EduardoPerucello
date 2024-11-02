@@ -13,7 +13,9 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 <br>
 -Python;
 <br>
--PHP (HTML, CSS)
+-HTML
+<br>
+-CSS
 
 ### Tecnologias utilizadas:
 -Docker
