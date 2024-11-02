@@ -19,6 +19,7 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 
 ### Tecnologias utilizadas:
 -Docker
+<br>
 -Git
 
 ### Linguagens estudadas:
