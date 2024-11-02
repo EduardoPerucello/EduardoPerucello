@@ -2,7 +2,7 @@
 ### Sobre mim
 Tenho 20 anos;
 <br>
-Estou no 5° Semestre de Engenharia de Computação na PUC-CAMPINAS;
+Estou no 6° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
@@ -10,8 +10,6 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 
 ### Linguagens principais:
 -C;
-<br>
--Java;
 <br>
 -Python;
 <br>
@@ -26,7 +24,9 @@ Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
 <br>
 -Python;
 <br>
--Assembly (x86);
+-x86 Assembly;
+<br>
+-MIPS Assembly;
 <br>
 -Laravel;
 <br>
