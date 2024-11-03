@@ -6,7 +6,7 @@ Estou no 6° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
-Linkedin: https://www.linkedin.com/in/eduardo-de-faria-rios-perucello
+Linkedin: https://www.linkedin.com/in/eduardoperucello
 
 ### Linguagens principais:
 -C;
