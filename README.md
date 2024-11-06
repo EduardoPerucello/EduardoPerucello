@@ -1,12 +1,19 @@
 # Olá, Sou Eduardo de Faria Rios Perucello
 ### Sobre mim
-Tenho 20 anos;
+Tenho 20 anos; 
 <br>
 Estou no 6° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
 Linkedin: https://www.linkedin.com/in/eduardoperucello
+
+### Idiomas:
+-Portugues;
+<br>
+-Ingles intermediario;
+<br>
+-ESpanhol avançado
 
 ### Linguagens principais:
 -C;
@@ -15,7 +22,7 @@ Linkedin: https://www.linkedin.com/in/eduardoperucello
 <br>
 -HTML;
 <br>
--CSS;
+-CSS
 
 ### Tecnologias utilizadas:
 -Docker
@@ -39,6 +46,6 @@ Linkedin: https://www.linkedin.com/in/eduardoperucello
 <br>
 -HTML;
 <br>
--Java;
+-Java
 <br>
 
