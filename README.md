@@ -1,8 +1,8 @@
 # Olá, Sou Eduardo de Faria Rios Perucello
 ### Sobre mim
-Tenho 20 anos; 
+Tenho 21 anos; 
 <br>
-Estou no 7° Semestre de Engenharia de Computação na PUC-CAMPINAS;
+Estou no 8° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
