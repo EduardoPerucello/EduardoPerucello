@@ -13,7 +13,7 @@ Linkedin: https://www.linkedin.com/in/eduardoperucello
 <br>
 -Ingles intermediario;
 <br>
--ESpanhol avançado
+-Espanhol intermediario
 
 ### Linguagens principais:
 -C;
