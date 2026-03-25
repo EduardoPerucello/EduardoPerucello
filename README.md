@@ -2,7 +2,7 @@
 ### Sobre mim
 Tenho 21 anos; 
 <br>
-Estou no 8° Semestre de Engenharia de Computação na PUC-CAMPINAS;
+Estou no 9° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
 E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
 <br>
