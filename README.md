@@ -4,7 +4,7 @@ Tenho 22 anos;
 <br>
 Estou no 9° Semestre de Engenharia de Computação na PUC-CAMPINAS;
 <br>
-E-mail: eduardoperucello@hotmail.com // perucelloeduardo@gmail.com
+E-mail: perucelloeduardo@gmail.com
 <br>
 Linkedin: https://www.linkedin.com/in/eduardoperucello
 
